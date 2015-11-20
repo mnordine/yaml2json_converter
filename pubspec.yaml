@@ -2,6 +2,7 @@ name: yaml2json_transformer
 description: Transforms yaml files to json files on build
 version: 0.0.4
 author: Mark Nordine <marknordine@gmail.com>
+homepage: https://github.com/mnordine/yaml2json_converter
 
 environment:
   sdk: '>=1.0.0 <2.0.0'
