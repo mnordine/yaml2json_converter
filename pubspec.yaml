@@ -1,0 +1,11 @@
+name: yaml2json_transformer
+description: Transforms yaml files to json files on build
+version: 0.0.4
+author: Mark Nordine <marknordine@gmail.com>
+
+environment:
+  sdk: '>=1.0.0 <2.0.0'
+
+dependencies:
+  barback: '>=0.15.2+7 <0.16.0'
+  yaml2json: '>=1.0.1 <2.0.0'
