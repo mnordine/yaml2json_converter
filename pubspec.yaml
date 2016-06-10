@@ -9,4 +9,5 @@ environment:
 
 dependencies:
   barback: '>=0.15.2+7 <0.16.0'
-  yaml2json: '>=1.0.1 <2.0.0'
+  yaml2json:
+    git: https://github.com/mnordine/yaml2json
